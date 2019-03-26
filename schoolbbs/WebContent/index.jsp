@@ -8,6 +8,7 @@
 </head>
 <body>
 <h3>bbs首页</h3>
+Hello World
 <h3>Welcome you</h3>
 </body>
 </html>
